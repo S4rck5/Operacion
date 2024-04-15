@@ -1,0 +1,16 @@
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\bin\Debug\net8.0-windows\OperaMat.exe
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\bin\Debug\net8.0-windows\OperaMat.deps.json
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\bin\Debug\net8.0-windows\OperaMat.runtimeconfig.json
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\bin\Debug\net8.0-windows\OperaMat.dll
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\bin\Debug\net8.0-windows\OperaMat.pdb
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.Form1.resources
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.dll
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\refint\OperaMat.dll
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.pdb
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\OperaMat.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Documentos\kevin\git\Operaciones\OperaMat\obj\Debug\net8.0-windows\ref\OperaMat.dll
